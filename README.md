@@ -19,10 +19,10 @@ O BookBot é um programa de linha de comando que aceita o caminho para um arquiv
     ```
 
 2.  **Execute o programa:**
-    Certifique-se de ter Python 3 instalado. Você pode usar qualquer arquivo de texto. Por exemplo, para analisar "Frankenstein" (já incluído no projeto):
+    Certifique-se de ter Python 3 instalado. Você pode usar qualquer arquivo de texto. basta criar uma pasta '/books' e adicionar os arquivos que deseja analisar em formato .txt no mesmo:
 
     ```bash
-    python3 main.py books/frankenstein.txt
+    python3 main.py books/arquivo.txt
     ```
 
     O relatório será exibido diretamente no seu terminal.
